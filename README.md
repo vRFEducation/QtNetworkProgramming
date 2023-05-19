@@ -37,14 +37,14 @@
 <h3 align="center">Qt Network Programming</h3>
 
   <p align="center">
-    project_description
+  This repo contains 2 application for a full client/server application demo
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="LICENSE.txt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://youtu.be/JacoUUPklHY">View Demo</a>
     ·
-    <a href="https://github.com/vRFEducation/QtNetworkProgramming/issues">Report Bug</a>
+    <a href="LICENSE.txt">Report Bug</a>
     ·
     <a href="https://github.com/vRFEducation/QtNetworkProgramming/issues">Request Feature</a>
   </p>
@@ -135,7 +135,7 @@ Communicating between 2 application on different machine or even connect to a de
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Use UDP as the protocol for commuinication
+- [ ] Use UDP as the protocol for communication
 
 See the [open issues](https://github.com/vRFEducation/QtNetworkProgramming/issues) for a full list of proposed features (and known issues).
 
@@ -173,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Vahid Rahmanifard - [linkedin-shield](https://www.linkedin.com/in/vrahmanifard/) - rahmanifard@live.com
+Vahid Rahmanifard - [linkedin-url](https://www.linkedin.com/in/vrahmanifard/) - rahmanifard@live.com
 
 Project Link: [https://github.com/vRFEducation/QtNetworkProgramming](https://github.com/vRFEducation/QtNetworkProgramming)
 
@@ -183,16 +183,16 @@ Project Link: [https://github.com/vRFEducation/QtNetworkProgramming](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/vRFEducation/QtNetworkProgramming.svg?style=for-the-badge
+[contributors-url]: https://github.com/vRFEducation/QtNetworkProgramming/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vRFEducation/QtNetworkProgramming.svg?style=for-the-badge
+[forks-url]: https://github.com/vRFEducation/QtNetworkProgramming/network/members
+[stars-shield]: https://img.shields.io/github/stars/vRFEducation/QtNetworkProgramming.svg?style=for-the-badge
+[stars-url]: https://github.com/vRFEducation/QtNetworkProgramming/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vRFEducation/QtNetworkProgramming.svg?style=for-the-badge
+[issues-url]: https://github.com/vRFEducation/QtNetworkProgramming/issues
+[license-shield]: https://img.shields.io/github/license/vRFEducation/QtNetworkProgramming.svg?style=for-the-badge
+[license-url]: https://github.com/vRFEducation/QtNetworkProgramming/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vrahmanifard
 [product-screenshot1]: images/client.png
